@@ -137,7 +137,7 @@ I will continuously update this repository as I learn new concepts, solve proble
 - [ ] Advanced Machine Learning
 - [ ] Hands-on Projects
 
-## 🎯 My Goal
+## My Goal
 
 To develop strong practical and theoretical knowledge of Machine Learning and become a skilled AI/ML Engineer.
 
@@ -145,4 +145,4 @@ To develop strong practical and theoretical knowledge of Machine Learning and be
 
 **Learning | Practicing | Building | Improving**
 
-*This repository represents my continuous Machine Learning learning journey.*
+*This repository represents my continuous Machine Learning journey.*
