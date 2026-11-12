@@ -123,20 +123,6 @@ ML-Learning/
 └── README.md
 ```
 
-## 📈 Learning Progress
-
-I will continuously update this repository as I learn new concepts, solve problems, and implement Machine Learning algorithms.
-
-- [ ] Python for Machine Learning
-- [ ] Mathematics for Machine Learning
-- [ ] Data Preprocessing
-- [ ] Machine Learning Fundamentals
-- [ ] Supervised Learning
-- [ ] Unsupervised Learning
-- [ ] Model Evaluation
-- [ ] Advanced Machine Learning
-- [ ] Hands-on Projects
-
 ## My Goal
 
 To develop strong practical and theoretical knowledge of Machine Learning and become a skilled AI/ML Engineer.
