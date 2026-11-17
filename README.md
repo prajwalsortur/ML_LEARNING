@@ -1,4 +1,4 @@
-# 🤖 ML Learning
+# 🤖 ML LEARNING
 
 Welcome to my **Machine Learning Learning Repository!**
 
