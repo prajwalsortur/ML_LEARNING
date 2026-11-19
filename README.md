@@ -6,7 +6,7 @@ This repository is my personal learning space where I document and practice ever
 
 My goal is to build a strong foundation in Machine Learning through theoretical understanding, practical implementation, coding exercises, and hands-on projects.
 
-## 🎯 Objectives
+##  Objectives
 
 - Understand Machine Learning concepts from basics to advanced levels.
 - Learn different Machine Learning algorithms.
@@ -16,7 +16,7 @@ My goal is to build a strong foundation in Machine Learning through theoretical 
 - Build hands-on Machine Learning projects.
 - Maintain a record of my learning journey.
 
-## 📚 Learning Roadmap
+##  Learning Roadmap
 
 ### 1. Python for Machine Learning
 
@@ -93,7 +93,7 @@ My goal is to build a strong foundation in Machine Learning through theoretical 
 - Feature Selection
 - Model Deployment
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 - Python
 - NumPy
@@ -105,9 +105,8 @@ My goal is to build a strong foundation in Machine Learning through theoretical 
 - Google Colab
 - Git & GitHub
 
-## 📂 Repository Structure
+##  Repository Structure
 
-```text
 ML-Learning/
 │
 ├── 01-Python-for-ML/
@@ -121,7 +120,7 @@ ML-Learning/
 ├── 09-ML-Projects/
 │
 └── README.md
-```
+
 
 ## My Goal
 
